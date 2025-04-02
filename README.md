@@ -197,7 +197,7 @@ Looking for **downloadable PDFs** of **DevOps interview questions, cheat sheets,
 ✅ **Live Mock Interview Recordings (YouTube/Blog)**  
 
 📌 **Follow for Updates:**  
-🔗 **GitHub**: [@NotHarshhaa](https://github.com/NotHarshhaa)  
+🔗 **GitHub**: [@NotHarshhaa](https://github.com/J-Code-Dev)
 📝 **Blog**: [ProDevOpsGuy](https://blog.prodevopsguy.xyz)  
 💬 **Telegram Community**: [Join Here](https://t.me/prodevopsguy)  
 
@@ -212,4 +212,3 @@ If this repository **helped you**, please:
 
 🚀 **Happy Learning & Best of Luck for Your DevOps Interviews!** 🚀  
 
-![banner](https://imgur.com/8ypFtRx.png)
