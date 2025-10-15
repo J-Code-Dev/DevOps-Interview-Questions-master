@@ -468,7 +468,7 @@ We **welcome contributions!** If you have insights, new tools, or improvements, 
 
 📌 **How to Contribute?**
 
-- Read the **[CONTRIBUTING.md](https://github.com/NotHarshhaa/DevOps-Interview-Questions/blob/master/CONTRIBUTING.md)** guide.  
+- Read the **[CONTRIBUTING.md](https://github.com/J-Code-Dev/DevOps-Interview-Questions-master/blob/main/CONTRIBUTING.md)** guide.  
 - Fix errors, add missing topics, or suggest improvements.  
 - Submit a **pull request** with your updates.  
 
