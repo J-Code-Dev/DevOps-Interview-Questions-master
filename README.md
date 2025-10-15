@@ -1,10 +1,10 @@
 # 🚀 DevOps Interview Questions & Answers  
 
-![DevOps Banner](https://imgur.com/a/v8Tcm7F)
+![DevOps Banner](https://imgur.com/a/v8Tcm7F.jpg)
 
 ## 📌 About This Repository  
 
-![about](https://imgur.com/dJ6uuGJ)
+![about](https://imgur.com/dJ6uuGJ.jpg)
 
 Welcome to **DevOps Interview Questions & Answers** – your one-stop destination for mastering **DevOps, Cloud, and SRE interviews**! 🚀  
 
