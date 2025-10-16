@@ -83,7 +83,7 @@ This collection is **useful for everyone in the DevOps ecosystem**:
 We **welcome contributions!** If you have insights, new tools, or improvements, feel free to submit a **pull request**.  
 
 📌 **How to Contribute?**  
-- Read the **[CONTRIBUTING.md](https://github.com/J-Code-Dev/devops-cheatsheet/blob/main/CONTRIBUTING.md)** guide.  
+- Read the **[CONTRIBUTING.md](https://github.com/J-Code-Dev/DevOps-Interview-Questions-master/blob/main/CONTRIBUTING.md)** guide.  
 - Fix errors, add missing topics, or suggest improvements.  
 - Submit a **pull request** with your updates.  
 
@@ -95,9 +95,8 @@ We **welcome contributions!** If you have insights, new tools, or improvements, 
 
 ## **🌍 Community & Support**  
 
-🔗 **GitHub:** [@NotHarshhaa](https://github.com/J-Code-Dev)  
-📝 **Blog:** [ProDevOpsGuy](https://blog.prodevopsguy.xyz)  
-💬 **Telegram Community:** [Join Here](https://t.me/prodevopsguy)  
+🔗 **GitHub:** [@MIcahJude](https://github.com/J-Code-Dev)  
+💬 **Telegram Community:** [Join Here](https://t.me/CyberNestCommunity)  
 
 ---
 
