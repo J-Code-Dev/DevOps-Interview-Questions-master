@@ -874,7 +874,7 @@ We **welcome contributions!** If you have insights, new tools, or improvements, 
 
 📌 **How to Contribute?**
 
-- Read the **[CONTRIBUTING.md](https://github.com/NotHarshhaa/DevOps-Interview-Questions/blob/master/CONTRIBUTING.md)** guide.  
+- Read the **[CONTRIBUTING.md](https://github.com/J-Code-Dev/DevOps-Interview-Questions/blob/master/CONTRIBUTING.md)** guide.  
 - Fix errors, add missing topics, or suggest improvements.  
 - Submit a **pull request** with your updates.  
 
@@ -886,8 +886,7 @@ We **welcome contributions!** If you have insights, new tools, or improvements, 
 
 ## **🌍 Community & Support**  
 
-🔗 **GitHub:** [@NotHarshhaa](https://github.com/NotHarshhaa)  
-📝 **Blog:** [ProDevOpsGuy](https://blog.prodevopsguy.xyz)  
-💬 **Telegram Community:** [Join Here](https://t.me/prodevopsguy)  
+🔗 **GitHub:** [@MicahJude](https://github.com/J-Code-Dev)  
+💬 **Telegram Community:** [Join Here](https://t.me/CyberNestCommunity)  
 
 ![Follow Me](https://imgur.com/2j7GSPs.png)
