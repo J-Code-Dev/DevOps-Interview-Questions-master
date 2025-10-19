@@ -480,7 +480,7 @@ We **welcome contributions!** If you have insights, new tools, or improvements, 
 
 ## **🌍 Community & Support**  
 
-🔗 **GitHub:** [@NotHarshhaa](https://github.com/J-Code-Dev)  
+🔗 **GitHub:** [@MicahJude](https://github.com/J-Code-Dev)  
 💬 **Telegram Community:** [Join Here](https://t.me/CyberNestCommunity)  
 
 ![Follow Me](https://imgur.com/2j7GSPs.png)
